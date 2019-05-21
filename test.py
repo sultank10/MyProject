@@ -3,7 +3,7 @@
 # title            :menu.py
 # description     :This program displays an interactive menu on CLI
 # author          :Kevin Fong
-# date            :19 May 2019
+# date            :21 May 2019
 # version          :0.1
 # usage           :python menu.py
 # notes           :
